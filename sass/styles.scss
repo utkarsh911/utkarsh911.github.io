@@ -252,6 +252,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
+  max-width : 200px;
   background: url('../img/dorami.jpg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -318,7 +319,7 @@ header {
     display: inline-block;
   }
   .logo img {
-    height: 36px;
+    height: 19px;
   }
   ul.primary-nav {
     margin: 0 0 0 75px;
